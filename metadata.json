@@ -1,0 +1,5 @@
+{
+  "name": "List.team",
+  "description": "A professional, modern shopping list tracker with time tracking, statistics, and micro-animations.",
+  "requestFramePermissions": ["microphone", "camera"]
+}
